@@ -1,4 +1,4 @@
-# 4InALine
+# 4InALine AI bot
 
 Connect Four AI Trainer
 
