@@ -98,13 +98,21 @@ The game is console-based and does not include a GUI.
 The code can be extended to save Q-tables to files for future training sessions.
 
 Example Board
+
 | | | | | | | |
+
 | | | | | | | |
+
 | | | | | | | |
+
 | | | | | | | |
+
 | | |1| | | | |
+
 |0|1|0| | | | |
+
 --------------
+
  0|1|2|3|4|5|6
 
 
